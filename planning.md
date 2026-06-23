@@ -52,9 +52,26 @@ I chose **r/travel**, a large public subreddit dedicated to travel discussion, t
 
 **Three difficult annotation examples** *(to be filled in after data collection)*:
 
-1. **Post:** [paste post here] — **Decided:** [label] — **Why:** [reasoning]
-2. **Post:** [paste post here] — **Decided:** [label] — **Why:** [reasoning]
-3. **Post:** [paste post here] — **Decided:** [label] — **Why:** [reasoning]
+Three difficult annotation examples:
+
+Post: "Minimum pain, Maximum gain that is my motto nowadays...I decided on 
+Seceda hike. Trust me, if you want to cheat by taking the cable car and can 
+manage about 10 km, pick Seceda over any hike in the whole Alps." — 
+Decided: advice — Why: Although written as a personal story, the primary 
+purpose is recommending a specific hike and strategy to unfit hikers. The 
+narrative is the vehicle for the advice, not the point itself.
+
+Post: "Spent about a week in France this June...Blue hour on the Seine is the 
+move for the Eiffel Tower. Pro tip we wish we'd known sooner: the glass pyramid 
+entrance line is brutal, so book a timed slot in advance." — Decided: advice — 
+Why: Despite mentioning a personal trip, the post is structured as a list of 
+tips and recommendations ("is the move", "Pro tip"), not a personal narrative.
+
+Post: "Slovenia was truly an amazing experience with friendly people and 
+beautiful nature. Incredible to be able to drive from the Alps to the coast 
+within a few short hours. Highly recommend making a trip here." — Decided: 
+advice — Why: Short post with no personal narrative detail. The primary 
+purpose is recommending Slovenia to others, not sharing a personal story.
 
 ---
 
